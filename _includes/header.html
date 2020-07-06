@@ -6,6 +6,9 @@
           {% include logo.svg %}
         </div>
       </a>
+      <div class="search_bar">
+        {% include algolia.html %}
+      </div>
       <nav class="header__links">
         <div class="container header__links-wrapper">
           {% for item in site.navigation %}

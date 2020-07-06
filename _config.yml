@@ -65,3 +65,8 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+algolia:
+  application_id: HMU01BI3KR
+  index_name: 'Emir28107'
+  search_only_api_key: e54923c3997a7eb53a2802fb2ba747a0
