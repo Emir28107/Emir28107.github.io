@@ -65,6 +65,7 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
 
 algolia:
   application_id: HMU01BI3KR
