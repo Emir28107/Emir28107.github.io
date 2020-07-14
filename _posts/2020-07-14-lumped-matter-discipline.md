@@ -6,7 +6,7 @@ mathjax: true
 categories : [Analog and Digital Electronics, Lumped circuit Abstraction]
 ---
 
-*This post is part of Circuit and Electronics, 6.02, Lectures by Prof. Anant Agarwal of MIT EECS Department and his book Foundations of Analog and Digital Electronics circuit. I write this post as summarisation of my learning from lecture 1 and greatful to the prof. for this wonderful lecture series. Lecture 1 is the introduction of circuit abstraction and how from electrons, Engineers created abstractions by considering different patterns to create millions of electronic devices, that we are enjoying nowadays!*
+*This post is part of Circuit and Electronics, 6.002, Lectures by Prof. Anant Agarwal of MIT EECS Department and his book Foundations of Analog and Digital Electronics circuit. I write this post as summarisation of my learning from lecture 1 and greatful to the prof. for this wonderful lecture series. Lecture 1 is the introduction of circuit abstraction and how from electrons, Engineers created abstractions by considering different patterns to create millions of electronic devices, that we are enjoying nowadays!*
 
 # The Circuit Abstraction
 ### The Power of Abstraction
@@ -21,6 +21,6 @@ $$F=m*a$$
 
 where, m is mass of body and a is acceleration which is rate of change of velocity, here we have use point mass simplification for the whole body to understand what will be the Acceleration if we had applied some known force.
 
-point mass simplification as suggests for the accuracy purposes we consider point masses of the body then summation over the volume of body to get whole mass of system, which will be quite cumbersome if we have weight machines to simply weight them, then take mass to get Acceleration and it's direction on the body.
+point mass simplification as for the accuracy purposes we consider point masses of the body then summation over the volume of body to get whole mass of system, which will be quite cumbersome if we have weight machines to simply weight them, then take mass to get Acceleration and it's direction on the body.
 
-Abstraction is supported by discretizing Discipline that is to make complex systems, we have to start with a discrete element for an eg, Resistor for our circuit, so discretizing Discipline is about providing values to discrete element.
+Abstraction is supported by discretizing Discipline that is, to make complex systems, we have to start with a discrete element for an eg, Resistor for our circuit, so discretizing Discipline is about providing values to discrete element.
